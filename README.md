@@ -1,4 +1,5 @@
-### Hi there 👋
+### Hi there!👋 I'm Thelma, A dedicated student currently pursuing a barchelor's degree in computer systems with a passion for tecnology and innovation.
+
 
 <!--
 **codewiththelma/codewiththelma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
