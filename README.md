@@ -26,10 +26,6 @@
 
 ###
 
-<img align="right" height="202" src="https://octodex.github.com/images/femalecodertocat.png"  />
-
-###
-
 <div align="left">
   <a href="https://www.linkedin.com/in/thelma-ofoegbu-764030258/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="linkedin logo"  />
@@ -37,7 +33,7 @@
   <a href="https://discordapp.com/users/1042815975189385276" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="discord logo"  />
   </a>
-  <a href="thelmaofoegbu01@gmail.com" target="_blank">
+  <a href="mailto:thelmaofoegbu01@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="gmail logo"  />
   </a>
   <a href="https://www.instagram.com/lifeoftee_xo?igsh=MTQ2bHhycm5oMm5tMQ%3D%3D&utm_source=qr" target="_blank">
@@ -63,20 +59,14 @@
 
 ###
 
+<img align="right" height="202" src="https://octodex.github.com/images/femalecodertocat.png"  />
 
+###
 
-<!--
-### Hi there!👋 I'm Thelma, A dedicated student currently pursuing a barchelor's degree in computer systems with a passion for technology and innovation.
-**codewiththelma/codewiththelma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="left">
+  <a href="https://open.spotify.com/user/31kqnypfmj5rjkikdccr2hpr2jva">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=31kqnypfmj5rjkikdccr2hpr2jva&count=2&unique=true" alt="Spotify recently played"  />
+  </a>
+</div>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+###
