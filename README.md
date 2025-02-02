@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">🔭 I’m currently open for internships and actively seeking opportunities to apply my skills and gain hands-on experience in the field.<br>📚 I’m currently learning Python and sharpening my skills in software development.<br>👯 I’m looking to collaborate on software projects. If you have an interesting project and need an extra pair of hands, let's team up!<br>⚡ Fun fact: In my free time, I enjoy watching movies to unwind and relax.</p>
+<p align="left">🔭 I’m currently open for internships and actively seeking opportunities to apply my skills and gain hands-on experience in the field.<br>📚 I’m currently a student at The University of Limerick.<br>👯 I’m looking to collaborate on software projects. If you have an interesting project and need an extra pair of hands, let's team up!<br>⚡ Fun fact: In my free time, I enjoy watching movies to unwind and relax.</p>
 
 ###
 
